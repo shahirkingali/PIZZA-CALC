@@ -1,4 +1,4 @@
-unction pizzatime() {
+function pizzatime() {
     var num1 = document.getElementById('firstNumber').value;
     var num2 = document.getElementById('secondNumber').value;
     var num3 = document.getElementById('thirdNumber').value;
